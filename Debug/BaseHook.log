@@ -1,0 +1,16 @@
+﻿  d3d9hook.cpp
+  gui.cpp
+  BaseHook.cpp
+  pattern_finder.cpp
+  Generating Code...
+  buffer.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  hde32.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  hde64.c
+  hook.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  trampoline.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Generating Code...
+  BaseHook.vcxproj -> G:\Projects\csgo\Windows\BaseHook\Debug\BaseHook.dll

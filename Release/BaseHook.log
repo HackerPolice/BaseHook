@@ -1,0 +1,15 @@
+﻿  d3d9hook.cpp
+  buffer.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  hde32.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  hde64.c
+  hook.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  trampoline.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9305,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1109 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BaseHook.vcxproj -> G:\Projects\csgo\Windows\BaseHook\Release\BaseHook.dll
